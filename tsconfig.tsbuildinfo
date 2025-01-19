@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/routes.tsx","./src/vite-env.d.ts","./src/Types/index.tsx","./src/components/GameCard/index.tsx","./src/components/Head/index.tsx","./src/components/context/GameContex.tsx","./src/pages/GameDetails/index.tsx","./src/pages/Home/index.tsx","./src/pages/profile/index.tsx","./src/services/factsecret.service.ts"],"version":"5.7.3"}
